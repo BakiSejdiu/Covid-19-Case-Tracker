@@ -1,0 +1,28 @@
+#widget {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+body {
+    background: rgb(111, 201, 236);
+}
+
+h3 {
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+    color: #6c757d;
+}
+
+h4.card-title {
+    margin-bottom: 0 !important;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+div .input-group {
+    width: auto;
+}
