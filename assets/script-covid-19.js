@@ -1,5 +1,5 @@
 const buton = document.getElementById('buton')
-const url_api = `https://corona.lmao.ninja/v2/countries`;
+const url_api = `https://disease.sh/v3/covid-19/countries`;
 
 buton.addEventListener('click', (e) => {
     const place = document.getElementById('place').value;
